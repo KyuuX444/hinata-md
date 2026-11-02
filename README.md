@@ -93,7 +93,7 @@ Sebelum memulai instalasi, pastikan sistem kamu memenuhi syarat berikut:
 
 4. **Clone repository & masuk ke direktori bot:**
    ```bash
-   git clone https://github.com/username/hinata-md.git
+   git clone https://github.com/KyuuX444/hinata-md.git
    cd hinata-md
    ```
 
@@ -152,7 +152,7 @@ Sebelum memulai instalasi, pastikan sistem kamu memenuhi syarat berikut:
 
 2. **Clone repository:**
    ```bash
-   git clone https://github.com/username/hinata-md.git
+   git clone https://github.com/KyuuX444/hinata-md.git
    cd hinata-md
    ```
 
@@ -185,7 +185,7 @@ Sebelum memulai instalasi, pastikan sistem kamu memenuhi syarat berikut:
    ```
 4. Clone repo dan install:
    ```powershell
-   git clone https://github.com/username/hinata-md.git
+   git clone https://github.com/KyuuX444/hinata-md.git
    cd hinata-md
    npm install
    ```
